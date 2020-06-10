@@ -4,14 +4,20 @@
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+ I chose Ford GoBike System Data as my source data. This data set includes information about individual rides made in a bike-sharing system. The features included in the dataset : Trip Duration (seconds) , Start Time and Date , End Time and Date , Start Station ID , Start Station Name , Start Station Latitude , Start Station Longitude , End Station ID , End Station Name, End Station Latitude , End Station Longitude , Bike ID , User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual) , Member Year of Birth, Member Gender
 
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
+Renting a bike from Ford GoBike System is a great initiative of moving around in urban areas, for commute, fun and lesiure purposes. 
 
+There are two types of users using the service i.e,subscribers are daily commuters, take short trips to and from work, use on weekdays at 8-9am and 5-6pm, and, occasionally around the lunch time.
+
+Customers, usually tourists or occassional riders for spending time with family friends who use service on weekends to explore the Bay Area.Finally, Males from both users utilizing more service compare to Females and others.
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+Customers mostly use the service after 10 am to 7pm where as subscribers use the service between 8-9 am and 5-6 pm from Monday to Friday. Customers use most service during weekends compare to Subscribers.
+
+Customers had longer trip duration around 28 minutes when compare to Subscribers who took average trip duration around 12 mins. Also  Customers took extra mile trip compare to Subscribers which is 1 mile difference.
+
